@@ -5,7 +5,7 @@
 }
 
 .frmRow {
-	margin-bottom: 10px;
+	margin-bottom: 15px;
 }
 
 #templatesrc {
@@ -20,4 +20,8 @@
 
 .mceActionPanel {
 	padding-top: 5px;
+}
+
+.dialog-wrapper fieldset {
+	margin-top: 5px !important;
 }
